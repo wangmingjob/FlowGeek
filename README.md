@@ -34,7 +34,7 @@ Presenter
 
 - [Picasso](https://github.com/square/picasso)：强大的图像加载库，Square公司真是业界良心。
 
-- [ButterKnift]()：告别findViewById
+- [ButterKnift](https://github.com/JakeWharton/butterknife)：告别findViewById
 
 - [RxLifecycle](https://github.com/trello/RxLifecycle)：在Acvitity和Fragment中管理订阅者/观察者的生命周期。
 
